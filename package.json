@@ -1,0 +1,27 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12"
+  },
+  "description": "Projeto da faculdade de tecnolgia Bandtec",
+  "main": "server/src/index.js",
+  "scripts": {
+    "start": "node server/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cervalhub/projeto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cervalhub/projeto/issues"
+  },
+  "homepage": "https://github.com/cervalhub/projeto#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
