@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 
 const app = express();
-const msg = "Running";
+const msg = "API Ronaldo";
 
 app.use(cors());
 
