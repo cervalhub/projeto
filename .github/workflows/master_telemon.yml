@@ -8,7 +8,7 @@ on:
     branches:
       - master
       paths:
-      - "server/**"
+        - "server/**"
 
 jobs:
   build-and-deploy:
